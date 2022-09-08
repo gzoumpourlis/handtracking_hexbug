@@ -1,9 +1,11 @@
 import pdb
-import numpy as np
-import Leap
 import time
+import Leap
+import numpy as np
 from time import sleep
 from psychopy import visual
+import serial.tools.list_ports
+from getkey import getkey, keys
 
 PSYCHOPY_PLOT = True
 
@@ -52,9 +54,6 @@ class LeapMotion:
 
 ######################################################
 # PySerial
-
-import serial.tools.list_ports
-from getkey import getkey, keys
 
 print('Scanning serial ports...\n')
 ports = serial.tools.list_ports.comports()
