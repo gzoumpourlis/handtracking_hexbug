@@ -7,7 +7,7 @@ In this project, we control a HexBug robot through hand-tracking, i.e. by transl
 -  an **infrared LED emitter (940nm)** <br />
 
 <p>
-  <img src="https://raw.githubusercontent.com/gzoumpourlis/hexbug_demo_123/main/pics/demo.gif" width="600" title="Example: live demo of our project">
+  <img src="https://raw.githubusercontent.com/gzoumpourlis/handtracking_hexbug/main/pics/demo.gif" width="600" title="Example: live demo of our project">
 </p>
 
 ## Overview
@@ -15,7 +15,7 @@ In this project, we control a HexBug robot through hand-tracking, i.e. by transl
 The  overview of our project is shown in the following figure:
 
 <p>
-  <img src="https://raw.githubusercontent.com/gzoumpourlis/hexbug_demo_123/main/pics/HexBug_Arduino_LeapMotion.png" width="600" title="Overview of the project">
+  <img src="https://raw.githubusercontent.com/gzoumpourlis/handtracking_hexbug/main/pics/HexBug_Arduino_LeapMotion.png" width="600" title="Overview of the project">
 </p>
 
 ## Demo
