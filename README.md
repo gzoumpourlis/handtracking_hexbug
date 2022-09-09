@@ -23,7 +23,7 @@ The  overview of our project is shown in the following figure:
 To run the demo, you can execute the following command
 
 ```bash
-$  demo_hexbug_leapmotion.py
+$ python demo_hexbug_leapmotion.py
 ```
 
 ## Credits
